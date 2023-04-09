@@ -2,6 +2,6 @@
 
 import Foundation
 
-var greeting = "test 02"
+var greeting = "new commit"
 
 //: [Next](@next)
